@@ -1,0 +1,27 @@
+/*Style for body*/
+body{
+    text-align:center;
+    background: #009FFF;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ec2F4B, #009FFF);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ec2F4B, #009FFF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+   
+  }  
+  .header
+  {
+    font-weight:bold;
+    font-size:30px;
+  }
+  
+  
+  
+  /*style for image tag*/
+  #album
+  {
+   
+    border-bottom: 3px solid #689F38;   
+    padding: 2px;
+    
+    height: 400px;
+  }
+  
